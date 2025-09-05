@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  4 SEP 2025 07:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  4 SEP 2025 17:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/lars/Documents/IAs/math-ia/math-ia-draft2.tex
-(/Users/lars/Documents/IAs/math-ia/math-ia-draft2.tex
+**/Users/lars/Documents/IAs/math-ia/doc/draft2/math-ia-draft2.tex
+(/Users/lars/Documents/IAs/math-ia/doc/draft2/math-ia-draft2.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
@@ -499,7 +499,15 @@ Package hyperref Info: Link coloring OFF on input line 60.
 
 [1
 
-{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./math-ia-draft2.toc)
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./math-ia-draft2.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write4
 \openout4 = `math-ia-draft2.toc'.
 
@@ -518,21 +526,21 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `math-ia-draft2.out' has not changed.
-(rerunfilecheck)             Checksum: 9814C2D956916ADB9290ECA4E25C967A;103.
+(rerunfilecheck)             Checksum: 6EC145137B06DEC228A2D1811573F161;230.
  ) 
 Here is how much of TeX's memory you used:
- 13637 strings out of 473190
- 214562 string characters out of 5715801
- 721939 words of memory out of 5000000
- 36709 multiletter control sequences out of 15000+600000
- 560394 words of font info for 41 fonts, out of 8000000 for 9000
+ 13692 strings out of 473190
+ 215421 string characters out of 5715801
+ 722942 words of memory out of 5000000
+ 36743 multiletter control sequences out of 15000+600000
+ 564741 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,11n,93p,1237b,461s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,11n,93p,1248b,461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on math-ia-draft2.pdf (3 pages, 40507 bytes).
+Output written on math-ia-draft2.pdf (3 pages, 42537 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
- 9 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 500000)
+ 25 words of extra memory for PDF output out of 10000 (max. 10000000)
 

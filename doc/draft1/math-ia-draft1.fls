@@ -1,8 +1,8 @@
-PWD /Users/lars/Documents/IAs/math-ia/doc
+PWD /Users/lars/Documents/IAs/math-ia/doc/draft1
 INPUT /usr/local/texlive/2025/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/lars/Documents/IAs/math-ia/doc/math-ia-draft1.tex
+INPUT /Users/lars/Documents/IAs/math-ia/doc/draft1/math-ia-draft1.tex
 OUTPUT math-ia-draft1.log
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
